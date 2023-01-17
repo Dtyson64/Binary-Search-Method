@@ -1,1 +1,1 @@
-# Binary-Search-Method
+# Search-Methods
